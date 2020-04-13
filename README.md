@@ -1,9 +1,10 @@
 # Senior_Comps_Stock_LSTM_AR
 R - .Rhistory 
 
-
 Python - AR_models_and_performance_check.ipynb, Data Preprocessing and auto-correlation tests.ipynb, LSTM.ipynb, Model Performance Check.ipynb
+
 Excel - Stats.xlsx contains the statistical results. returns_1 ~ returns_6 are stock returns in different time periods. results 1 ~ 6 are the results of the original LSTM model. n_result 1 ~ 6 are the results of the second LSTM model with LSTM layers. 
+
 model_performance.txt has the history of the first LSTM model's accuracies and binary cross entropies for each time period
 
 
